@@ -152,5 +152,12 @@
     "coverUrl": "https://oliveiralabs.github.io/megadrum-kits-premium/1023/cover.png",
     "zipUrl": "https://oliveiralabs.github.io/megadrum-kits-premium/1023/kit.megadrum",
     "version": 1
+  },
+  {
+    "name": "Kross",
+    "path": "online_kit_1024",
+    "coverUrl": "https://oliveiralabs.github.io/megadrum-kits-premium/1024/cover.png",
+    "zipUrl": "https://oliveiralabs.github.io/megadrum-kits-premium/1024/kit.megadrum",
+    "version": 1
   }
 ]
