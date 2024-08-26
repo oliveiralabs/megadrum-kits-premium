@@ -159,5 +159,12 @@
     "coverUrl": "https://oliveiralabs.github.io/megadrum-kits-premium/1024/cover.png",
     "zipUrl": "https://oliveiralabs.github.io/megadrum-kits-premium/1024/kit.megadrum",
     "version": 1
+  },
+  {
+    "name": "002",
+    "path": "online_kit_1025",
+    "coverUrl": "https://oliveiralabs.github.io/megadrum-kits-premium/1025/cover.png",
+    "zipUrl": "https://oliveiralabs.github.io/megadrum-kits-premium/1025/kit.megadrum",
+    "version": 1
   }
 ]
