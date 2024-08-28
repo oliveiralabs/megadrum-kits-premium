@@ -166,5 +166,12 @@
     "coverUrl": "https://oliveiralabs.github.io/megadrum-kits-premium/1025/cover.png",
     "zipUrl": "https://oliveiralabs.github.io/megadrum-kits-premium/1025/kit.megadrum",
     "version": 1
+  },
+  {
+    "name": "Bacurinha",
+    "path": "online_kit_1026",
+    "coverUrl": "https://oliveiralabs.github.io/megadrum-kits-premium/1026/cover.png",
+    "zipUrl": "https://oliveiralabs.github.io/megadrum-kits-premium/1026/kit.megadrum",
+    "version": 1
   }
 ]
