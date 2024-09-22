@@ -173,5 +173,12 @@
     "coverUrl": "https://oliveiralabs.github.io/megadrum-kits-premium/1026/cover.png",
     "zipUrl": "https://oliveiralabs.github.io/megadrum-kits-premium/1026/kit.megadrum",
     "version": 1
+  },
+  {
+    "name": "Miranha",
+    "path": "online_kit_1027",
+    "coverUrl": "https://oliveiralabs.github.io/megadrum-kits-premium/1027/cover.png",
+    "zipUrl": "https://oliveiralabs.github.io/megadrum-kits-premium/1027/kit.megadrum",
+    "version": 1
   }
 ]
