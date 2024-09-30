@@ -187,5 +187,12 @@
     "coverUrl": "https://oliveiralabs.github.io/megadrum-kits-premium/1028/cover.png",
     "zipUrl": "https://oliveiralabs.github.io/megadrum-kits-premium/1028/kit.megadrum",
     "version": 1
+  },
+  {
+    "name": "Grace",
+    "path": "online_kit_1029",
+    "coverUrl": "https://oliveiralabs.github.io/megadrum-kits-premium/1029/cover.png",
+    "zipUrl": "https://oliveiralabs.github.io/megadrum-kits-premium/1029/kit.megadrum",
+    "version": 1
   }
 ]
