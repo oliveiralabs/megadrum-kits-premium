@@ -194,5 +194,12 @@
     "coverUrl": "https://oliveiralabs.github.io/megadrum-kits-premium/1029/cover.png",
     "zipUrl": "https://oliveiralabs.github.io/megadrum-kits-premium/1029/kit.megadrum",
     "version": 1
+  },
+  {
+    "name": "Percussion",
+    "path": "online_kit_1030",
+    "coverUrl": "https://oliveiralabs.github.io/megadrum-kits-premium/1030/cover.png",
+    "zipUrl": "https://oliveiralabs.github.io/megadrum-kits-premium/1030/kit.megadrum",
+    "version": 1
   }
 ]
