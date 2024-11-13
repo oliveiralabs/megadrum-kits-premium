@@ -208,5 +208,12 @@
     "coverUrl": "https://oliveiralabs.github.io/megadrum-kits-premium/1031/cover.png",
     "zipUrl": "https://oliveiralabs.github.io/megadrum-kits-premium/1031/kit.megadrum",
     "version": 1
+  },
+  {
+    "name": "Zildjian Rock",
+    "path": "online_kit_1032",
+    "coverUrl": "https://oliveiralabs.github.io/megadrum-kits-premium/1032/cover.png",
+    "zipUrl": "https://oliveiralabs.github.io/megadrum-kits-premium/1032/kit.megadrum",
+    "version": 1
   }
 ]
